@@ -6,3 +6,4 @@ feet (by running). But beware... some monsters are smart, some are strong, and s
 are fast. 
 
 
+![Screen Shot of the Scary Forest Map](./Scary_Forest.png)
